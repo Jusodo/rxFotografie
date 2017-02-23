@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://jusodo.github.io/photorama/gallery/"  
-  - JOURNAL: "https://jusodo.github.io/photorama/journal/"
-  - ABOUT: "https://jusodo.github.io/photorama/about/"
+  - GALLERY: "https://jusodo.github.io/rxFotografie/gallery/"  
+  - JOURNAL: "https://jusodo.github.io/rxFotografie/journal/"
+  - ABOUT: "https://jusodo.github.io/rxFotografie/about/"
 
 # All translation keys
 translations:
