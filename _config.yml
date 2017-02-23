@@ -33,8 +33,7 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://jusodo.github.io/rxFotografie/gallery/"  
-  - JOURNAL: "https://jusodo.github.io/rxFotografie/journal/"
+  - GALLERY: "https://jusodo.github.io/rxFotografie/gallery/"
   - ABOUT: "https://jusodo.github.io/rxFotografie/about/"
 
 # All translation keys
