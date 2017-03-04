@@ -24,12 +24,12 @@ owner:
 comments :
   provider : false
   disqus :
-    short_name : ""
+  short_name : ""
 
 # Internal nav
 nav:
-  - GALLERIE: "https://jusodo.github.io/rxFotografie/gallery/"
-  - ÜBER MICH: "https://jusodo.github.io/rxFotografie/about/"
+  - PORTFOLIO: "https://jusodo.github.io/rxFotografie/portfolio/"
+  - ABOUT: "https://jusodo.github.io/rxFotografie/about/"
 
 # All translation keys
 translations:
@@ -37,8 +37,8 @@ translations:
   permalink: "/404.html"
 
 # Server
-destination:      	 ./_site
-port:             	 4000
+destination: ./_site
+port: 4000
 
 
 # Build settings
@@ -46,11 +46,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-paginate_path: "/journal/page:num/"
-permalink: "/journal/:title/"
-categories_path: "/journal/category/"
-tags_path: "/journal/tag/"
-gems: 
+gems:
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
